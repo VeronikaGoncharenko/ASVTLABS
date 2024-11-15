@@ -1,0 +1,15 @@
+C:\Users\91790\source\repos\lab2asvt\bin\Debug\net6.0\lab2asvt.exe
+C:\Users\91790\source\repos\lab2asvt\bin\Debug\net6.0\lab2asvt.deps.json
+C:\Users\91790\source\repos\lab2asvt\bin\Debug\net6.0\lab2asvt.runtimeconfig.json
+C:\Users\91790\source\repos\lab2asvt\bin\Debug\net6.0\lab2asvt.dll
+C:\Users\91790\source\repos\lab2asvt\bin\Debug\net6.0\lab2asvt.pdb
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.csproj.AssemblyReference.cache
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.AssemblyInfoInputs.cache
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.AssemblyInfo.cs
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.csproj.CoreCompileInputs.cache
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.dll
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\refint\lab2asvt.dll
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.pdb
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\lab2asvt.genruntimeconfig.cache
+C:\Users\91790\source\repos\lab2asvt\obj\Debug\net6.0\ref\lab2asvt.dll
