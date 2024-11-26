@@ -1,0 +1,10 @@
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\bin\Debug\netstandard2.1\DistributedQueue.Common.deps.json
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\bin\Debug\netstandard2.1\DistributedQueue.Common.dll
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\bin\Debug\netstandard2.1\DistributedQueue.Common.pdb
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.csproj.AssemblyReference.cache
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.AssemblyInfoInputs.cache
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.AssemblyInfo.cs
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.csproj.CoreCompileInputs.cache
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.dll
+C:\Users\91790\Downloads\DQ\DQ\DistributedQueue.Common\obj\Debug\netstandard2.1\DistributedQueue.Common.pdb

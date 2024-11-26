@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "a3WV3ehvWUTWHqGQNK9fG3dvlKkl3IJKW4kMQI5vmTgaf5LDliQfmliJkI/srM8Im4WROjGsrcEsjmRIQN6RVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91790\\Downloads\\DQ\\DQ\\DistributedQueue.Worker\\DistributedQueue.Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91790\\.nuget\\packages\\hangfire.core\\1.8.2\\hangfire.core.1.8.2.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\hangfire.redis.stackexchange\\1.9.0\\hangfire.redis.stackexchange.1.9.0.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\stackexchange.redis\\2.6.111\\stackexchange.redis.2.6.111.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

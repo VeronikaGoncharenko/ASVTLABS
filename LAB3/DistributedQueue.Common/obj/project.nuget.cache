@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DPXwbOM8hROacWL+5zLGBfcnRKoG9607v95tvoDwcDTD7JhG9xB49HhEnwlpnWj7FbjTbLQ013+4ClgF8eBLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\91790\\Downloads\\DQ\\DQ\\DistributedQueue.Common\\DistributedQueue.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\91790\\.nuget\\packages\\hangfire.core\\1.8.2\\hangfire.core.1.8.2.nupkg.sha512",
+    "C:\\Users\\91790\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
