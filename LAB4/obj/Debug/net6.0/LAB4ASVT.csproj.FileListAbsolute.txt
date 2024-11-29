@@ -1,0 +1,17 @@
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.csproj.AssemblyReference.cache
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.AssemblyInfoInputs.cache
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.AssemblyInfo.cs
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.csproj.CoreCompileInputs.cache
+C:\Users\91790\source\repos\LAB4ASVT\bin\Debug\net6.0\LAB4ASVT.exe
+C:\Users\91790\source\repos\LAB4ASVT\bin\Debug\net6.0\LAB4ASVT.deps.json
+C:\Users\91790\source\repos\LAB4ASVT\bin\Debug\net6.0\LAB4ASVT.runtimeconfig.json
+C:\Users\91790\source\repos\LAB4ASVT\bin\Debug\net6.0\LAB4ASVT.dll
+C:\Users\91790\source\repos\LAB4ASVT\bin\Debug\net6.0\LAB4ASVT.pdb
+C:\Users\91790\source\repos\LAB4ASVT\bin\Debug\net6.0\MPI.dll
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.csproj.CopyComplete
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.dll
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\refint\LAB4ASVT.dll
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.pdb
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\LAB4ASVT.genruntimeconfig.cache
+C:\Users\91790\source\repos\LAB4ASVT\obj\Debug\net6.0\ref\LAB4ASVT.dll
